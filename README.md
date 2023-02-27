@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 PhD. Electronic Engineering
 ---------------------------
 
-I've been learning to code for 5 years. I'm interested in artificial intelligence, Back-end develop.
+I've been learning to code for 5 years. I'm interested in artificial intelligence, Back-end develop or Mobile application.
 
 * 🌍  I'm based in Thailand
 
